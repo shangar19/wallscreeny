@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825152246062",
+    "firebase_url": "https://wallscreeny.firebaseio.com",
+    "project_id": "wallscreeny",
+    "storage_bucket": "wallscreeny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825152246062:android:2fd2e3ef46329730",
+        "android_client_info": {
+          "package_name": "com.example.wallscreeny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825152246062-v6c9d3aqem1tioos2hjtne6sqd69ib8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallscreeny",
+            "certificate_hash": "a24671c1ab3825200d9d25a0f579592460ba2402"
+          }
+        },
+        {
+          "client_id": "825152246062-re3vuuht2p7b43ojl3ql1n0qjtarlpkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_N3j7Ue13hFOoDa-niVjWNkuQS3kIIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825152246062-re3vuuht2p7b43ojl3ql1n0qjtarlpkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
